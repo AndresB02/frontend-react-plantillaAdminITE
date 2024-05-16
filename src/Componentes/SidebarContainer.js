@@ -1,6 +1,6 @@
 import React from "react";
 import Menu from "./Menu";
-import Logo from "../AdminLTELogo.png";
+import Logo from "../../src/AdminLTELogo.png";
 import { Link } from "react-router-dom";
 
 const SidebarContainer = () => {
