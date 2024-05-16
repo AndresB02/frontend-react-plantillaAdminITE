@@ -1,5 +1,5 @@
 module.exports = {
   api: {
-    baseURL: "https://backend-plantillaadminite.onrender.com/",
+    baseURL: "https://backend-plantillaadminite.onrender.com",
   },
 };
